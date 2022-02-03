@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Fraunces', serif;
+}
+h1{
+    margin: auto;
+    text-align: center;
+    padding-bottom: 20px;
+}
+.question{
+    font-weight: 500;
+}
+.answers{
+    margin-bottom: 30px;
+    display: block;
+    text-align: left;
+}
+.answers label{
+  display: block;
+}
+.submit{
+    font-size: 20px;
+    background-color: lightgray;
+}
+.end{
+    display: flex; 
+    padding: 50px; 
+}
